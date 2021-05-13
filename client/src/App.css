@@ -1,0 +1,19 @@
+@media only screen and (max-width: 660px) {
+  .PC {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 661px) {
+  .Telephone {
+    display: none;
+  }
+}
+
+body {
+  background-color: #668cff;
+}
+
+h1 {
+  color: white;
+}
